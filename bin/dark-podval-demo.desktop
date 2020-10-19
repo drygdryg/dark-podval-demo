@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Dark Podval Demo
+GenericName=Dark Podval Demo
+Exec=/usr/bin/dark-podval-demo
+Type=Application
+Categories=Game;
+Comment=Platformer game writen in C++
+Comment[ru]=Игра-платформер, написанная на с++
+Terminal=false
+StartupNotify=false
+Icon=/usr/share/dark-podval-demo/icon.png
