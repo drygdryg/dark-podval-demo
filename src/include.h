@@ -3,8 +3,8 @@
 //#define linux_install
 
 #if  defined(linux_install)
-    #define GLOBAL_DATA_DIR string("/usr/share/podval-demo/")
-    #define SAVE_DATA_DIR string((string)getenv("HOME")+"/.local/share/podval-demo/")
+    #define GLOBAL_DATA_DIR string("/usr/share/dark-podval-demo/")
+    #define SAVE_DATA_DIR string((string)getenv("HOME")+"/.local/share/dark-podval-demo/")
 #elif defined(linux)
     #define GLOBAL_DATA_DIR string("data/")
     #define SAVE_DATA_DIR string("data/")
