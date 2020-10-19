@@ -16,8 +16,7 @@ all:
 clean:
 	@if [ -f $(OUTPUT) ]; then rm $(OUTPUT); fi;
 install:
-	cp $(OUTPUT) $(OUTPUT_INSTALL_BIN)
+	install -m 755 -D $(OUTPUT) $(OUTPUT_INSTALL_BIN)
 	rm -rf $(OUTPUT_DATA_DIR)
 	cp -r $(DATA_DIR) $(OUTPUT_DATA_DIR)
-	chmod 777 -R $(OUTPUT_DATA_DIR)
 	cp $(SHOTCUT) $(SHOTCUT_DIR)
