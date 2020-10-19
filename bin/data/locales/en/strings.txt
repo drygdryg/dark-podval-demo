@@ -1,0 +1,76 @@
+Continue
+Choose level
+Level еditor
+Endless mode
+Achievements
+Settings
+Exit game
+Hey,
+Change profile
+Level settings
+Title
+Width
+Height
+OK
+Are you sure?
+No
+Yes
+Custom levels
+Create
+Edit
+Delete
+Choose
+Standard levels
+Collected coins: 
+ rub
+Passed for 
+ minutes 
+ seconds
+Play
+Level settings
+Enter the number, press ENTER when finished.
+No text
+=red
+=green
+=yellow
+=blue
+=blue
+=pink
+ no such key
+ fake
+Help
+Apply
+Buy from Vitalya
+Window size:
+Full Screen Mode
+Language
+Subtitles
+Pause
+Continue
+Restart
+Menu
+Exit game
+Your hero died tragically :( 
+Level 
+ passed
+For 
+Menu 
+Restart 
+Continue 
+Enter name
+Player profiles
+Name                 Money          Level
+Erase
+Edit name
+Choose
+Console
+Achievements
+Level 
+Coins: 
+New game
+Buy
+Your money:
+Congratulations, you bought
+Sound volume
+Music volume
+High-quality darkening

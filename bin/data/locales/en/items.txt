@@ -1,0 +1,18 @@
+Force Drink
+Thanks to him you can push two boulders next to each other at the same time.
+200 60 20
+Unconscious Drink
+It was originally planned as a drink to restore memory, but it turned out the other way round - with it you forget the passed sections of the level.
+150 60 20
+Blindness Drink
+The name of this drink is greatly exaggerated. You perfectly see the objects surrounding you, but only at a distance of two meters.
+150 50 20
+PPC
+This PPC is intended for one purpose only: show a map of the current floor.
+0 0 0
+Quick Drink
+Helps lengthen legs and speed up running.
+250 30 20
+Reincarnation Drink
+A drink created by no other than a miracle that can save you from a fatal injury (the action is a one-time, possible side effect is a quick transition between this and that worlds).
+600 20 20
